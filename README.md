@@ -13,7 +13,8 @@ God bless that blender is free :pray:
 ## About 
 I had to do some model in 3DS MAX because my teacher would not accept any from a different program. </br>
 For now when I'm making this file I exported it .max extension to .blend and add some things. </br>
-There are two such files in the repository, so you can open them in any program you want.
+~~There are two such files in the repository, so you can open them in any program you want.~~ </br>
+.blend is way too big, so the result is below.
 
 ## Render
 ![DOM11](https://user-images.githubusercontent.com/83137313/225665278-9a1a5757-b99c-4d9a-8fbc-7ef438d1fb9a.png)
