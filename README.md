@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/83137313/225664828-64b1e36b-1a5c-4046-8a92-0614dffa4770.png">
 </p>
 <p align="center">
-House for teacher to ~~gtfo~~  :smiley:
+House I would love to live in
 </p>
 
 Edit: </br>
